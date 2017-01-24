@@ -23,3 +23,8 @@ btn.cornerRadius=0.8f; // You can directly set CornerRadius in one line
 **Example**
 
 ![See Example](http://im.ezgif.com/tmp/ezgif.com-d5bd5eaa74.gif)
+
+
+ License
+
+`DKButton` is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
