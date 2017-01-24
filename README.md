@@ -22,7 +22,7 @@ btn.cornerRadius=0.8f; // You can directly set CornerRadius in one line
 ```
 **Example**
 
-![See Example](http://im.ezgif.com/tmp/ezgif.com-d5bd5eaa74.gif)
+![See Example](https://raw.githubusercontent.com/DarshanKunjadiya1994/DKButton/master/dkButton.gif)
 
 
  License
